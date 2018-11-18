@@ -1,6 +1,7 @@
 # Web-Development
 
 ### 1. Introduction to HTML
+* [HTML Basics]
 
 ### 2. Intermediate to HTML
 
