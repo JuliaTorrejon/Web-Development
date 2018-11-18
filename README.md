@@ -1,7 +1,7 @@
 # Web-Development
 
 ### 1. Introduction to HTML
-* [HTML Basics]
+* [HTML Basics](https://github.com/JuliaTorrejon/Web-Development/blob/master/Introduction_to_HTML/HTML_Basics.md)
 
 ### 2. Intermediate to HTML
 
