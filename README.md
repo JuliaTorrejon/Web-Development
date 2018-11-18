@@ -79,3 +79,4 @@
 ## References
 
 * [Udemy -- The Web Developer Camp](https://www.udemy.com/the-web-developer-bootcamp/)
+* [Mozilla Developer Netowrk -- HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
