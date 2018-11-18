@@ -50,31 +50,31 @@
 
 ### 25. YelpCamp: Basics
 
-### 26.
+### 26. Databases
 
-### 27.
+### 27. YelpCamp: Data Persistence
 
-### 28. 
+### 28. RESTful Routing
 
-### 29.
+### 29. Data Associations
 
-### 30. 
+### 30. YelpCamp: Comments
 
-### 32. 
+### 31. Authentication
 
-### 33. 
+### 32. YelpCamp: Adding Authentication
 
-### 34. 
+### 33. YelpCamp: Cleaning Up
 
-### 35. 
+### 34. YelpCamp: Update and Destroy
 
-### 36. 
+### 35. YelpCamp: UI Improvements
 
-### 37. 
+### 36. Git and Github
 
-### 38. 
+### 37. Deploying
 
-### 39. 
+### 38. JavaScript: The Tricky Stuff
 
 
 ## References
