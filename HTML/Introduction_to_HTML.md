@@ -4,7 +4,7 @@
   * Form
 * The nouns of a webapage
 
-## OBEJCTIVES
+## OBJECTIVES
 
 - Write simple documents
 - Understand the difference between closing and self closing tags
