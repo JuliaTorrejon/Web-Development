@@ -59,5 +59,5 @@ Each item inside the lists is put inside an <li> (list item) element.
 ### Links
 
 ``` html
-a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
 ```
