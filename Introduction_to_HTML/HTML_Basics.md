@@ -55,6 +55,15 @@ Each item inside the lists is put inside an <li> (list item) element.
 
 <p>working together ... </p>
 ```
+### Spans
+
+You could make any element look like a top level heading. Consider the following:
+
+``` html
+<span style="font-size: 32px; margin: 21px 0;">Is this a top level heading?</span>
+```
+
+This is a <span> element. It has no semantics. You use it to wrap content when you want to apply CSS to it (or do something to it with JavaScript) without giving it any extra meaning (You'll find out more about these later on in the course.) We've applied some CSS to it to make it look like a top level heading, but since it has no semantic value, it will not get any of the extra benefits described above. It is a good idea to use the relevant HTML element for the job.
 
 ### Links
 
