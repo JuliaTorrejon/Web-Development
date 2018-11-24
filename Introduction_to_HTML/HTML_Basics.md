@@ -55,7 +55,7 @@ Each item inside the lists is put inside an <li> (list item) element.
 
 <p>working together ... </p>
 ```
-### Spans
+### Span
 
 You could make any element look like a top level heading. Consider the following:
 
@@ -64,6 +64,17 @@ You could make any element look like a top level heading. Consider the following
 ```
 
 This is a <span> element. It has no semantics. You use it to wrap content when you want to apply CSS to it (or do something to it with JavaScript) without giving it any extra meaning (You'll find out more about these later on in the course.) We've applied some CSS to it to make it look like a top level heading, but since it has no semantic value, it will not get any of the extra benefits described above. It is a good idea to use the relevant HTML element for the job.
+
+### Div
+
+The HTML Content Division element `<div>` is the generic container for flow content. It has no effect on the content or layout until styled using CSS.
+
+``` html
+<div>
+  <p>Any kind of content here. Such as
+  &lt;p&gt;, &lt;table&gt;. You name it!</p>
+</div>
+```
 
 ### Links
 
